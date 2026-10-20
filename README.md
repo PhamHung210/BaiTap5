@@ -40,12 +40,4 @@ npm run lint
 npm run typecheck
 ```
 
-Tuỳ chọn: `npm run seed` để tạo dữ liệu mẫu khi backend chưa có dữ liệu.
-
-## Ảnh giao diện chính
-
-Bài này sử dụng 3 video demo bên dưới thay cho ảnh chụp giao diện.
-
-## Video demo
-
-[Xem 3 video demo Quản lý khoá học trên Google Drive](https://drive.google.com/drive/u/0/folders/1Fdzx33pT8Yar1YwlQLxhDIjnLWo2WSvg)
+Tuỳ chọn: `npm run seed` để tạo dữ liệu mẫu khi backend chưa có dữ liệu
