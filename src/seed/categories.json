@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Lập trình Mobile",
+    "description": "Android, Flutter, React Native"
+  },
+  {
+    "id": "2",
+    "name": "Lập trình Web",
+    "description": "Frontend và Backend"
+  },
+  {
+    "id": "3",
+    "name": "Trí tuệ nhân tạo",
+    "description": "AI, Machine Learning, Deep Learning"
+  },
+  {
+    "id": "4",
+    "name": "Thiết kế UI/UX",
+    "description": "Figma, Design System, trải nghiệm người dùng"
+  }
+]
